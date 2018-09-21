@@ -1,0 +1,34 @@
+_repo: Kittyboy-s-Christmas_53920
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Waugh, Ida
+    deathdate: 1919
+    gutenberg_agent_id: '35818'
+    url: http://www.gutenberg.org/2009/agents/35818
+creator:
+  author:
+    agent_name: Blanchard, Amy Ella
+    alias: Blanchard, Amy E. (Amy Ella)
+    birthdate: 1856
+    deathdate: 1926
+    gutenberg_agent_id: '8406'
+    url: http://www.gutenberg.org/2009/agents/8406
+    wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
+description: ''
+gutenberg_issued: '2017-01-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53920'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cats -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Christmas stories'
+- !lcsh 'Children''s stories'
+- GITenberg
+title: Kittyboy's Christmas
+url: http://www.gutenberg.org/ebooks/53920

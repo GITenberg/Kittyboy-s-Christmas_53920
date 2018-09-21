@@ -1,11 +1,14 @@
 _repo: Kittyboy-s-Christmas_53920
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Waugh, Ida
     deathdate: 1919
     gutenberg_agent_id: '35818'
     url: http://www.gutenberg.org/2009/agents/35818
+covers:
+- cover_type: archival
+  image_path: 53920-h/images/cover-image.jpg
 creator:
   author:
     agent_name: Blanchard, Amy Ella
@@ -16,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8406
     wikipedia: http://en.wikipedia.org/wiki/Amy_Ella_Blanchard
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53920#Kittyboy-s-Christmas
 gutenberg_issued: '2017-01-08'
 gutenberg_type: Text
 identifiers:
